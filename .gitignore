@@ -1,0 +1,29 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gradle/
+.idea/
+
+*.iml
+mic_em/src/test/
+mic_file/src/test/
+mic_product/src/test/
+mic_promotion/src/test/
+mic_userAndpart/src/test/
+mic_workflow/src/test/
+config_server/src/test/
+discover_server/src/test/
+src/test
+
+build/
+target/

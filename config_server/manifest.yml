@@ -1,0 +1,6 @@
+applications:
+ - name : config-server
+   host : config-server-${random-word}
+   memory : 512M
+   instances : 1
+   path : target/config-server-0.0.1.jar
