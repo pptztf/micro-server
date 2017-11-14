@@ -22,13 +22,6 @@
         <module>foreign_api_servce</module>
     </modules>
 
-    <parent>
-        <groupId>org.springframework.cloud</groupId>
-        <artifactId>spring-cloud-starter-parent</artifactId>
-        <version>Brixton.BUILD-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
-    </parent>
-
     <properties>
         <kie.version>6.1.0.Final</kie.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
